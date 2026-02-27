@@ -1,1 +1,14 @@
+## AI-Augmented Telemedicine for Primary Care: Opportunities and Risks
+
+Primary care serves as the foundation of healthcare systems worldwide, providing first-contact, continuous, comprehensive, and coordinated care [1,2]. With increasing disease burden, aging populations, and workforce shortages, primary care systems are under significant pressure to deliver high-quality services efficiently [3]. Telemedicine has emerged as an important strategy to address these challenges by enabling remote consultations, monitoring, and follow-up care [4].
+
+In recent years, Artificial Intelligence (AI) has been increasingly integrated into telemedicine platforms, giving rise to AI-augmented telemedicine. AI technologies—including machine learning, natural language processing, computer vision, and predictive analytics—are now being used to support clinical decision-making, automate administrative tasks, and enhance patient engagement [5,6]. In primary care, these tools are applied in areas such as symptom assessment, triage, diagnosis support, risk stratification, chronic disease management, and patient education [7].
+
+The COVID-19 pandemic accelerated the adoption of telemedicine globally and highlighted the potential role of AI in supporting remote healthcare delivery [8]. Many healthcare systems rapidly deployed digital platforms enhanced with AI-driven features to manage large patient volumes, monitor disease progression, and optimize resource allocation [9]. This rapid expansion demonstrated both the promise and the limitations of AI-supported telehealth services [10].
+
+In low- and middle-income countries (LMIC, including Sri Lanka, AI-augmented telemedicine offers additional opportunities to address healthcare access gaps, shortages of specialists, and geographical barriers [11,12]. By enabling remote expert consultations and automated clinical support, AI-based systems may strengthen primary care capacity and improve service equity [13]. However, infrastructural limitations, regulatory weaknesses, and workforce skill gaps pose major challenges to implementation [14].
+
+Despite growing interest, the integration of AI into telemedicine raises important ethical, legal, and safety concerns. Issues such as data privacy, informed consent, algorithmic transparency, liability, and bias have become central to discussions on digital health governance [15,16]. Furthermore, overreliance on automated systems may undermine clinical judgment and patient-provider relationships [17].
+
+Given these developments, there is a need for a balanced and evidence-based assessment of AI-augmented telemedicine in primary care. Understanding both its benefits and risks is essential for policymakers, healthcare providers, and system developers. This mini-review aims to synthesize current evidence on the opportunities and risks of AI-enabled telemedicine in primary care and to highlight key considerations for safe and effective implementation.
 
