@@ -280,7 +280,8 @@ Xyz
 
 ## Enhancing Telehealth Documentation: The Role of Generative AI in Healthcare Scribes (UI)
 
-A word of caution - missing quality data within EHRs is a contributor to hallucinations. -some preliminary measures required (Gogia)
+
+## A word of caution - missing quality data within EHRs is a contributor to hallucinations. -some preliminary measures required (SBG)
 
 All of AI depends on quality data. Data cannot arise in a vacuum and collection is very much a human effort, some may call it as the slowest link in the Data, Information, Knowledge, Wisdom (DIKW) pyramid. Within healthcare, time management is an issue with the doctor’s time remaining the most expensive element of care delivery. Electronic Medical Records may have arguably aided care efficiency, but that has been at the cost of less time being devoted to the patient[1], the majority being spent on documentation, and that too. From the telehealth perspective, data collection using Store and Forward Telemedicine, before the actual physician encounter by phone or video, can not only ensure better outcomes as well decrease in the time spent on care delivery. THis data can and should be added to the data pool which will assist learning of the AI system. 
 Alongside detailed history taking has lately become a nearly forgotten aspect of diagnosis, more so because of the lack of time. That AI agents can be used to take detailed notes on the salient points of the history[2] is still in the nascent stages, and worth exploring further.
